@@ -1,6 +1,9 @@
 # Author
 Colleen Piccolo
 
+# Changes
+Tried to update the UI to display a text field in the Categories text box. Also added a Comments header in the UI. Added an Echo statement to the workflow file.
+
 # Top Five
 
 This is a preliminary version of a social media platform called Top Five. The primary function of this website is for users to create posts listing their top five favorite items for a specific category. 
