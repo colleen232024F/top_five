@@ -2,7 +2,7 @@
 Colleen Piccolo
 
 # Changes
-Tried to update the UI to display a text field in the Categories text box. Also added a Comments header in the UI. Added an Echo statement to the workflow file.
+Tried to update the UI to display a "Put Category here" field in the Categories text box. Also added a Comments header in the UI. Added an Echo statement to the workflow file.
 
 # Top Five
 
